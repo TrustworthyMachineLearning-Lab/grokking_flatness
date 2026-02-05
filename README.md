@@ -1,6 +1,6 @@
 ## Flatness is Necessary, Neural Collapse is Not: Rethinking Generalization via Grokking
 
-[NeurIPS 2025] This repository contains the code for our paper [Flatness is Necessary, Neural Collapse is Not: Rethinking Generalization via Grokking](https://arxiv.org/abs/2509.17738).
+[NeurIPS 2025] This repository contains the code for our paper [Flatness is Necessary, Neural Collapse is Not: Rethinking Generalization via Grokking](https://openreview.net/pdf?id=lbtOctHDQ3).
 
 ## Overview
 
